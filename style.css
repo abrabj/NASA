@@ -9,8 +9,8 @@ main {
     justify-content: center;
     height: 450px;
     width: 850px;
-    background-image: url(./nasa-_Ya__WUgeUg-unsplash.jpg);
-    background-size: contain;
+    background-image: url(./spaceshuttle.jpg);
+    background-size: cover;
 }
 
 section {
