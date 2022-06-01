@@ -1,0 +1,47 @@
+body {
+    margin: 0 auto;
+    width: 850px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+    width: 850px;
+    background-image: url(./spaceshuttle2.jpg);
+    background-size: contain;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    height: 324px;
+    background-color: gray;
+}
+
+div {
+    width: 270px;
+}
+
+h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    color: rgb(234, 11, 11);
+}
+
+h3 {
+    font-display: bold;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
